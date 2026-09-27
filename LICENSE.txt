@@ -1,0 +1,78 @@
+SERIAL BRIDGE - END USER LICENSE AGREEMENT
+Copyright (c) Optimized Media Group LLC. All rights reserved.
+
+This End User License Agreement ("Agreement") is between you (an individual or an entity,
+"you") and Optimized Media Group LLC ("OMG", "we", "us") and covers the Serial Bridge software,
+including its service, application, installer and documentation (the "Software"). By
+installing, copying or using the Software you agree to this Agreement. If you do not agree, do
+not install or use the Software.
+
+1. LICENCE GRANT
+   OMG grants you a non-exclusive, non-transferable, revocable licence to install and use the
+   Software, free of charge, on any number of computers for your personal or business use. You
+   may redistribute the Software only in its original, unmodified form, including this
+   Agreement and all notices. You may not sell the Software, or modify, decompile,
+   disassemble or reverse engineer it, except where applicable law expressly permits this
+   despite this restriction. All rights not expressly granted are reserved by OMG.
+
+2. THIRD-PARTY COMPONENTS
+   The Software includes third-party components that are governed by their own licences, not by
+   this Agreement. These include the com0com virtual serial port driver (GNU General Public
+   License, version 2 or later), Fluent UI System Icons (MIT licence) and the Selawik font (SIL
+   Open Font License 1.1). See THIRD-PARTY.txt. Nothing in this Agreement limits your rights
+   under those licences.
+
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS AND WITHOUT WARRANTY OF
+   ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, OMG DISCLAIMS ALL WARRANTIES,
+   EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY AND QUIET ENJOYMENT. OMG DOES
+   NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OPERATE WITHOUT INTERRUPTION OR
+   ERROR, OR THAT DATA WILL BE TRANSMITTED COMPLETELY, CORRECTLY OR ON TIME. YOU ASSUME THE
+   ENTIRE RISK AS TO THE QUALITY, PERFORMANCE AND RESULTS OF THE SOFTWARE.
+
+4. NOT FOR CRITICAL USE
+   The Software is not designed, tested or intended for use where its failure, delay or error
+   could lead to death, personal injury, environmental damage or significant property or
+   financial loss. Examples include life-safety, medical, emergency-alerting, transport,
+   industrial-control and similar systems. Any such use is entirely at your own risk.
+
+5. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL OMG OR ITS MEMBERS,
+   MANAGERS, EMPLOYEES, CONTRACTORS, AFFILIATES OR SUPPLIERS BE LIABLE FOR ANY INDIRECT,
+   INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA,
+   PROFITS, REVENUE, BUSINESS, GOODWILL OR AIR TIME, OR FOR ANY EQUIPMENT DAMAGE, SERVICE
+   INTERRUPTION OR COST OF SUBSTITUTE GOODS OR SERVICES. THIS APPLIES HOWEVER CAUSED AND UNDER
+   ANY THEORY OF LIABILITY, WHETHER CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR
+   OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THIS AGREEMENT, EVEN IF
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OMG'S TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS
+   WILL NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID FOR THE SOFTWARE OR US $10.
+   Some jurisdictions do not allow certain exclusions or limitations, so some of the above may
+   not apply to you. In that case they apply to the fullest extent the law permits.
+
+6. INDEMNIFICATION
+   You agree to defend, indemnify and hold harmless OMG and its members, managers, employees,
+   contractors, affiliates and suppliers from and against any and all claims, demands, losses,
+   liabilities, damages, judgments, settlements, costs and expenses (including reasonable
+   attorneys' fees) arising out of or relating to:
+   (a) your installation, use or misuse of the Software;
+   (b) your breach of this Agreement or of any applicable law or regulation; or
+   (c) any system, equipment, network or data you connect to or operate with the Software.
+
+7. SUPPORT AND UPDATES
+   OMG has no obligation to provide support, maintenance, updates or fixes. Any support or
+   updates OMG chooses to provide are governed by this Agreement unless stated otherwise.
+
+8. TERMINATION
+   This licence ends automatically if you breach this Agreement. On termination you must stop
+   using and uninstall the Software. Sections 2 to 6 and 9 survive termination.
+
+9. GENERAL
+   This Agreement is governed by the laws of the State of Minnesota, USA, excluding its
+   conflict-of-laws rules. The state and federal courts located in Minnesota have exclusive
+   jurisdiction. If any provision is held unenforceable, it will be enforced to the maximum
+   extent permissible and the remaining provisions stay in full effect. This Agreement is the
+   entire agreement between you and OMG about the Software. OMG's failure to enforce any
+   provision is not a waiver of it.
+
+Optimized Media Group LLC - https://optimizedmedia.net

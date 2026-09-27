@@ -82,6 +82,16 @@ fad56d1a2426b2d03cd1434c88c7bb67b6c42c3d77d337f0cc01a9e0466c1d92  SerialBridge-0
   when Secure Boot is on (Device Manager Code 52). Setup detects 3.x and replaces it.
 - Settings and logs are stored in `C:\ProgramData\SerialBridge\`.
 
+## Licence and disclaimer
+
+Serial Bridge is free to use. It is distributed under the [End User License Agreement](LICENSE.txt).
+
+**The software is provided "AS IS", without warranty of any kind.** To the maximum extent permitted
+by law, Optimized Media Group LLC is not liable for any damages arising from its use, and by
+using it you agree to indemnify Optimized Media Group LLC against claims arising from your use.
+It is not intended for life-safety, emergency-alerting or other critical systems. Please read the
+[full terms](LICENSE.txt) before installing.
+
 ## Third-party components
 
 - **com0com** (virtual null-modem driver) by Vyacheslav Frolov. GPL-2.0-or-later, shipped
